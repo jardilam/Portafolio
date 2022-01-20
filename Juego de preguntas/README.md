@@ -1,7 +1,5 @@
 # retoSofka
-Juego de trivia del reto Sofka
-
-En esta ocasión se presenta el juego de trivia del reto Sofka.
+Juego de trivia
 
 A continuación se dará explicación del mismo:
 
