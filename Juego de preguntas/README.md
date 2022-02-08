@@ -1,5 +1,4 @@
-# retoSofka
-Juego de trivia
+# Juego de trivia
 
 A continuación se dará explicación del mismo:
 
